@@ -14,7 +14,7 @@ Check out the [post](https://testdriven.io/blog/fastapi-react/).
     $ cd backend
     $ python3.9 -m venv env
     $ source env/bin/activate
-    (env)$ pip install -r requirements.txt
+    (env)$ poetry install
     (env)$ python main.py
     ```
 
